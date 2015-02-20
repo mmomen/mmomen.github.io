@@ -1,1 +1,1 @@
-#My personal portfolio built using Start Bootstrap's Grayscale theme.
+My personal portfolio built using Start Bootstrap's Grayscale theme.
