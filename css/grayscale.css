@@ -366,3 +366,8 @@ body {
     font-size: 14px;
     font-weight: 400;
 }
+
+.note-text {
+    font-size: 10px;
+    font-weight: 300;
+}
